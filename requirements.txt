@@ -1,5 +1,11 @@
 # local package
--e .
+numpy
+pandas
+os
+datetime
+requests
+pprint
+BeautifulSoup
 
 # external requirements
 click
